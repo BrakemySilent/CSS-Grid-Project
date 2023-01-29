@@ -110,4 +110,8 @@
 			font-size: 2.2rem;
 		}
 	}
+
+	.gallery {
+		grid-template-columns: repeat(8, 1fr);
+	}
 }
